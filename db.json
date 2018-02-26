@@ -1,0 +1,58 @@
+{
+    "songs": [
+        {
+            "id": 1,
+            "title": "Starlight",
+            "artist": "Muse",
+            "cover": "https://img.discogs.com/DrZgy3YwMLm51EM9uEaH9UaUeh4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1890217-1251332619.jpeg.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Encore",
+            "artist": "Red Hot Chili Peppers",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/a/ae/Thegetawayalbum.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Demons",
+            "artist": "Imagine Dragons",
+            "cover": "https://is3-ssl.mzstatic.com/image/thumb/Music2/v4/ac/7d/de/ac7dded0-b96c-b4db-d722-f35cef03dcfb/UMG_cvrart_00602537293308_01_RGB72_1500x1500_12UMGIM46900.jpg/1200x630bb.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Reptilia",
+            "artist": "The Strokes",
+            "cover": "https://upload.wikimedia.org/wikipedia/en/9/9f/Room_on_Fire_cover.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Vulgar display of Power",
+            "artist": "Pantera",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/91VgCsujMhL._SL1200_.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Master of Puppets",
+            "artist": "Metallica",
+            "cover": "https://www.hrrshop.de/bilder/produkte/gross/METALLICA-Master-of-Puppets-LP-CD-DVD-BOX-SET.jpg"
+        },
+        {
+            "id": 7,
+            "title": "The number of the beast",
+            "artist": "Iron Maiden",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/61pYmu9wdJL._SY355_.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Back in Black",
+            "artist": "AC/DC",
+            "cover": "https://img.discogs.com/0HvD7XZhEsmrcZ4T_SJPBmtCiTI=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1081164-1190638738.jpeg.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Kings of Metal",
+            "artist": "Manowar",
+            "cover": "https://images-na.ssl-images-amazon.com/images/I/91L6qRc1yXL._SL1419_.jpg"
+        }
+    ]
+}
